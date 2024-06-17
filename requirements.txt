@@ -1,0 +1,8 @@
+# python3.9.0
+flask==3.0.3
+sentence-transformers==3.0.0
+torch==2.3.0
+scipy==1.10.1
+numpy==1.26.4
+toml==0.10.2
+waitress==3.0.0
